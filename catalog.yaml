@@ -2,4 +2,4 @@ version: 1.2.3.4
 type: pipeline-template-catalog
 
 name: customerPortalFrontendTeamCatalog
-displayName: Shared Template Catalog for Teams Working on the Customer Portal
+displayName: Shared Template Catalog for Teams Working on the Customer Portal - TEST
