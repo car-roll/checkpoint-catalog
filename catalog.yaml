@@ -1,5 +1,5 @@
-version: 3 
+version: 1
 type: pipeline-template-catalog
 
-name: 2.0PortalFrontendTeamCatalog
+name: testingBranch-PortalFrontendTeamCatalog
 displayName: Shared Template Catalog for Teams Working on the Customer Portal - TEST
