@@ -1,4 +1,4 @@
-version: 2.0 
+version: 3 
 type: pipeline-template-catalog
 
 name: 2.0PortalFrontendTeamCatalog
