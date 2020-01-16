@@ -1,0 +1,5 @@
+version: 1
+type: pipeline-template
+
+name: Checkpoint Test Pipeline Job
+description: Test checkpoint feature with templates
