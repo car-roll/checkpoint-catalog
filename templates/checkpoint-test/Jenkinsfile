@@ -1,3 +1,4 @@
+/*
 pipeline {
   agent none
   stages {
@@ -21,3 +22,5 @@ pipeline {
     }
   }
 }
+*/
+stage 'aaa'; echo 'ran'; checkpoint('bob'); stage 'bbb'; echo '2';
