@@ -29,4 +29,6 @@ checkpoint 'checkpoint'
 input 'proceed?'
 echo 'end'
 */
-stage 'aaa'; echo 'ran'; checkpoint('bob'); stage 'bbb'; echo '2';
+echo 'first'
+checkpoint 'check'
+echo 'second'
