@@ -23,4 +23,7 @@ pipeline {
   }
 }
 */
-stage 'aaa'; echo 'ran'; checkpoint('bob'); stage 'bbb'; echo '2';
+echo 'start'
+checkpoint 'checkpoint'
+input 'proceed?'
+echo 'end'
