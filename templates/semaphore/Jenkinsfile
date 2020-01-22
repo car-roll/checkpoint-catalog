@@ -1,3 +1,4 @@
 echo('pre-semaphore')
-semaphore('wait')
+//semaphore('wait')
+sleep(5000000)
 echo('post-semaphore')
