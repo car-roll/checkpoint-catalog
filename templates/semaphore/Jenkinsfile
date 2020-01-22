@@ -1,0 +1,3 @@
+echo('pre-semaphore')
+semaphore('wait')
+echo('post-semaphore')
